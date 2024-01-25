@@ -7,7 +7,7 @@
 // melhorando o codigo
 let listaDeNumeroSorteados = [];
 let lista = ['','Primeira','Segunda','Terceira','Quarta','Quinta','Sexta','Setima','Oitava','Nona','Decima']
-let numeroLimite = 5;
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleastorio();
 let tentativa = 0;
 let PalavraTentativa;
